@@ -1,6 +1,8 @@
 INSTRUCTIONS:
+link: localhost/finalproj/index.php
 
-
+username: reverente
+password: Reverente1
 
 
 DESCRIPTION:
