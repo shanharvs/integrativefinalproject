@@ -112,6 +112,7 @@ session_start();
               <img src="pics/logo3.png" alt="author" class="img-fluid w-100 rounded-lg border-thick border-white">
             </div>
             <h4>Sweet Treats</h4>
+            <a href="creators.php" class="btn btn-primary">The Creators</a>
           </div>
         </div>
       </div>
