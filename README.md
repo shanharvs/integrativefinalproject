@@ -1,4 +1,15 @@
 FILES:
+index.php - this is the main page when you open up the website
+register.php - this where you need to register/create a new account
+login.php - this is where you log in your account after registering.
+aboutus.php - this is where you want to find information about the owners
+products.php - actual products we sell
+cart.php - where you can see your orders if you add to cart our prodcuts
+checkout.php - after adding the cart, this will show if you want to purchase.
+thankyou.php - this will show with transaction details after doing the checkout.
+
+
+
 
 INDEX.PHP
 ![image](https://github.com/user-attachments/assets/5d608923-f303-4f26-bc34-b7fe2d6535bc)
@@ -47,8 +58,7 @@ thankyou.php (after placing an order)
 creators.php
 ![image](https://github.com/user-attachments/assets/7d034253-ba7a-4ca0-9dd4-eaf871a73301)
 
-thankyou.php (updated)
-![image](https://github.com/user-attachments/assets/27f1a888-101b-4b5e-8f3b-2d11aed88bc6)
+
 
 
 
