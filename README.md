@@ -44,9 +44,8 @@ checkout.php
 thankyou.php (after placing an order)
 ![image](https://github.com/user-attachments/assets/f76f22c5-d94f-4074-a34e-9e724971c47f)
 
-
-
-
+creators.php
+![image](https://github.com/user-attachments/assets/7d034253-ba7a-4ca0-9dd4-eaf871a73301)
 
 
 
