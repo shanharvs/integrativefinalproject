@@ -1,3 +1,20 @@
+INSTRUCTIONS:
+
+
+
+
+DESCRIPTION:
+index.php - this is the main page when you open up the website
+register.php - this where you need to register/create a new account
+login.php - this is where you log in your account after registering.
+aboutus.php - this is where you want to find information about the owners
+products.php - actual products we sell
+cart.php - where you can see your orders if you add to cart our prodcuts
+checkout.php - after adding the cart, this will show if you want to purchase.
+thankyou.php - this will show with transaction details after doing the checkout.
+
+
+
 FILES:
 
 INDEX.PHP
