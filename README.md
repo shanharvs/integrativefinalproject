@@ -4,6 +4,7 @@ INSTRUCTIONS:
 
 
 DESCRIPTION:
+
 index.php - this is the main page when you open up the website
 register.php - this where you need to register/create a new account
 login.php - this is where you log in your account after registering.
