@@ -47,7 +47,8 @@ thankyou.php (after placing an order)
 creators.php
 ![image](https://github.com/user-attachments/assets/7d034253-ba7a-4ca0-9dd4-eaf871a73301)
 
-
+thankyou.php (updated)
+![image](https://github.com/user-attachments/assets/27f1a888-101b-4b5e-8f3b-2d11aed88bc6)
 
 
 
